@@ -216,8 +216,8 @@ li{
     font-size: 40px;
     font-family: "lucida sans";
     position: relative;
-    top: 128px;
-    left: 18px;
+    top: 79px;
+    left: 183px;
 }
 }
 span{
@@ -236,8 +236,9 @@ span{
     font-size: 40px;
     font-family: "lucida sans";
     position: relative;
-    top: 96px;
-    left: 18px;
+    top: 58px;
+    left: 80px;
+
 }
 }
 span{
@@ -256,8 +257,8 @@ span{
     font-size: 40px;
     font-family: "lucida sans";
     position: relative;
-    top: 69px;
-    left: 19px;
+    top: 34px;
+    left: 61px;
 }
 }
 .den img{
@@ -273,7 +274,7 @@ span{
     width: 262px;
     height: 275px;
     position: relative;
-    left: 129px;
+    left: 80px;
     top: 69px;
     border-radius: 186px;
 }
@@ -293,8 +294,8 @@ span{
     width: 112px;
     height: 34px;
     position: relative;
-    bottom: 214px;
-    left: 19px;
+    bottom: 253px;
+    left: 151px;
     background-color: black;
     color: white;
     border-radius: 10px;
