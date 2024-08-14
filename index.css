@@ -73,6 +73,7 @@ a{
 }
 .nav-link:hover{
     color: red;
+    transition: 1s;
 }
 
 /*.nav-logo{
@@ -217,7 +218,7 @@ li{
     font-family: "lucida sans";
     position: relative;
     top: 79px;
-    left: 183px;
+    left: 163px;
 }
 }
 span{
@@ -237,7 +238,7 @@ span{
     font-family: "lucida sans";
     position: relative;
     top: 58px;
-    left: 80px;
+    left: 65px;
 
 }
 }
@@ -258,7 +259,7 @@ span{
     font-family: "lucida sans";
     position: relative;
     top: 34px;
-    left: 61px;
+    left: 43px;
 }
 }
 .den img{
@@ -274,7 +275,7 @@ span{
     width: 262px;
     height: 275px;
     position: relative;
-    left: 80px;
+    left: 63px;
     top: 69px;
     border-radius: 186px;
 }
@@ -295,7 +296,7 @@ span{
     height: 34px;
     position: relative;
     bottom: 253px;
-    left: 151px;
+    left: 137px;
     background-color: black;
     color: white;
     border-radius: 10px;
@@ -314,7 +315,7 @@ span{
     width: 51px;
     height: 44px;
     position: relative;
-    left: 130px;
+    left: 112px;
     top: 54px;
     padding: 1px;
 }
@@ -345,13 +346,13 @@ span{
 }
 @media all and (max-width: 500px){
 	.go img {
-    width: 406px;
-    height: 236px;
-    position: relative;
-    top: 14px;
-    left: -3px;
-    border-radius: 30px;
-}
+        width: 264px;
+        height: 220px;
+        position: relative;
+        top: 14px;
+        left: 61px;
+        border-radius: 30px;
+    }
 }
 #pipe{
 	font-size: 25px;
@@ -379,14 +380,15 @@ span{
     width: 488px;
 }
 @media all and (max-width: 500px){
-    #deon {
-    font-size: 18px;
-    font-family: "lucida sans";
-    position: relative;
-    left: 4%;
-    bottom: 31px;
-    width: 398px;
-}
+        #deon {
+        font-size: 16px;
+        font-family: "lucida sans";
+        position: relative;
+        left: 6px;
+        bottom: 31px;
+        width: 356px;
+        text-align: center;
+    }
 }
 #oil{
 	font-size: 40px;
@@ -417,7 +419,7 @@ span{
     font-size: 24px;
     font-family: "lucida sans";
     position: relative;
-    left: 101px;
+    left: 81px;
     top: -65px;
 }
 }
@@ -429,13 +431,14 @@ span{
     bottom: 210px;
 }
 @media all and (max-width: 500px){
-	#plug {
-    font-size: 14px;
-    font-family: "lucida sans";
-    position: relative;
-    left: 12px;
-    bottom: 88px;
-}
+	    #plug {
+        font-size: 14px;
+        font-family: "lucida sans";
+        position: relative;
+        left: 0px;
+        text-align: center;
+        bottom: 88px;
+    }
 }
 .poke img{
 	width: 420px;
@@ -446,14 +449,14 @@ span{
 	border-radius: 20px;
 }
 @media all and (max-width: 500px){
-    .poke img {
-    width: 414px;
-    height: 274px;
-    position: relative;
-    left: -6px;
-    bottom: 97px;
-    border-radius: 20px;
-}
+            .poke img {
+        width: 291px;
+        height: 221px;
+        position: relative;
+        left: 41px;
+        bottom: 101px;
+        border-radius: 20px;
+    }
 }
 .pro img{
 	width: 350px;
@@ -464,15 +467,14 @@ span{
 	border-radius: 30px;
 }
 @media all and (max-width: 500px){
-	.pro img {
-    width: 376px;
-    height: 285px;
-    position: relative;
-    left: 7px;
-    top: -17px;
-    border-radius: 30px;
-
-}
+	    .pro img {
+        width: 261px;
+        height: 231px;
+        position: relative;
+        left: 60px;
+        top: -16px;
+        border-radius: 30px;
+    }
 }
 #ooz{
 	font-size: 40px;
@@ -499,14 +501,14 @@ span{
 	bottom: 289.5px;
 }
 @media all and (max-width: 500px){
-	.pad img {
-    width: 392px;
-    height: 176px;
-    border-radius: 40px;
-    position: relative;
-    left: 3px;
-    top: -1px;
-}
+	    .pad img {
+        width: 263px;
+        height: 171px;
+        border-radius: 40px;
+        position: relative;
+        left: 58px;
+        top: -1px;
+    }
 }
 #ore{
 	font-size: 20px;
@@ -517,14 +519,15 @@ span{
 	width: 400px;
 }
 @media all and (max-width: 500px){
-    #ore {
-    font-size: 19px;
-    font-family: "lucida sans";
-    position: relative;
-    left: 23px;
-    top: -10px;
-    width: 354px;
-}
+        #ore {
+        font-size: 17px;
+        font-family: "lucida sans";
+        position: relative;
+        left: 61px;
+        top: -10px;
+        width: 266px;
+        text-align: center;
+    }
 }
 #liz{
 	width: 200px;
@@ -548,7 +551,7 @@ span{
     font-size: 15px;
     font-family: "lucida sans";
     position: relative;
-    left: 113px;
+    left: 102px;
     bottom: 39px;
 }
 }
@@ -560,13 +563,13 @@ span{
     bottom: 610px;
 }
 @media all and (max-width: 500px){
-	.ung img {
-    width: 373px;
-    border-radius: 40px;
-    position: relative;
-    left: 31px;
-    top: 27px;
-}
+	    .ung img {
+        width: 281px;
+        border-radius: 40px;
+        position: relative;
+        left: 63px;
+        top: 27px;
+    }
 }
 #laz{
     font-size: 20px;
@@ -577,14 +580,15 @@ span{
 	width: 350px;
 }
 @media all and (max-width: 500px){
-	#laz {
-    font-size: 18px;
-    font-family: "lucida sans";
-    position: relative;
-    left: 39px;
-    top: 10px;
-    width: 365px;
-}
+    #laz{
+            font-size: 17px;
+        font-family: "lucida sans";
+        position: relative;
+        left: 61px;
+        top: 10px;
+        width: 266px;
+        text-align: center; 
+    }
 }
 #toe{
 	width: 200px;
@@ -599,18 +603,18 @@ span{
     bottom: 605px;
 }
 @media all and (max-width: 500px){
-    #toe {
-    width: 188px;
-    height: 41px;
-    border-radius: 15px;
-    background-color: black;
-    color: white;
-    font-size: 15px;
-    font-family: "lucida sans";
-    position: relative;
-    left: 116px;
-    top: -18px;
-}
+    #toe{
+        width: 188px;
+        height: 42px;
+        border-radius: 15px;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        font-family: "lucida sans";
+        position: relative;
+        left: 102px;
+        bottom: 22px;
+    }
 }
 #in{
 	font-size: 40px;
@@ -625,6 +629,7 @@ span{
     font-family: "lucida sans";
     position: relative;
     top: 31px;
+    left: 12px;
     text-align: center;
 }
 }
@@ -641,15 +646,15 @@ span{
 }
 @media all and (max-width: 500px){
     #name {
-    width: 370px;
-    height: 40px;
-    border-radius: 10px;
-    border-style: double;
-    position: relative;
-    bottom: -9px;
-    left: 5px;
-    padding-left: 10px;
-}
+        width: 264px;
+        height: 40px;
+        border-radius: 10px;
+        border-style: double;
+        position: relative;
+        bottom: -9px;
+        left: 50px;
+        padding-left: 10px;
+    }
 }
 #email{
     font-family: 'lucida sans';
@@ -664,38 +669,40 @@ span{
 }
 @media all and (max-width: 500px){
 	#email {
-    width: 370px;
-    height: 40px;
-    border-radius: 10px;
-    border-style: double;
-    position: relative;
-    bottom: -24px;
-    left: 5px;
-    padding-left: 10px;
+        width: 264px;
+        height: 40px;
+        border-radius: 10px;
+        border-style: double;
+        position: relative;
+        bottom: -22px;
+        left: 50px;
+        padding-left: 10px;
+    }   
 }
-}
-#ell{
+
+textarea{
     font-family: 'lucida sans';
-	width: 430px;
-	height: 300px;
-	border-radius: 10px;
-	border-style: double;
-	padding-left: 10px;
-	position: relative;
-	left: 455px;
-	bottom: 270px;
-}
-@media all and (max-width: 500px){
-    #ell {
-    width: 363px;
-    height: 237px;
+    width: 430px;
+    height: 300px;
     border-radius: 10px;
     border-style: double;
     padding-left: 10px;
     position: relative;
-    left: 6px;
-    bottom: -45px;
+    left: 455px;
+    bottom: 270px;
 }
+
+@media all and (max-width: 500px){
+    textarea{
+        width: 242px;
+        height: 237px;
+        border-radius: 10px;
+        border-style: double;
+        padding-left: 10px;
+        position: relative;
+        left: 64px;
+        bottom: -45px;
+    }
 }
 #chi{
     width: 140px;
@@ -711,17 +718,17 @@ span{
 }
 @media all and (max-width: 500px){
 	#chi {
-    width: 144px;
-    height: 46px;
-    border-radius: 7px;
-    background-color: black;
-    color: white;
-    font-family: "lucida sans";
-    font-size: 18px;
-    position: relative;
-    left: 234px;
-    bottom: -53px;
-}
+        width: 117px;
+        height: 35px;
+        border-radius: 7px;
+        background-color: black;
+        color: white;
+        font-family: "lucida sans";
+        font-size: 18px;
+        position: relative;
+        left: -116px;
+        bottom: -85px;
+    }
 }
 .bel img{
     width: 22%;
@@ -735,7 +742,7 @@ span{
     width: 44%;
     height: 85px;
     position: relative;
-    left: 113px;
+    left: 111px;
     top: 23px;
 }
 }
@@ -767,7 +774,7 @@ span{
 @media all and (max-width: 500px){
     .container2 {
     background-color: black;
-    width: 97%;
+    width: 100%;
     height: 292px;
     position: relative;
     top: 138px;
@@ -788,7 +795,7 @@ span{
     width: 54px;
     height: 54px;
     position: relative;
-    left: 117px;
+    left: 104px;
     top: 80px;
     padding: 3px;
     border-radius: 150px;
@@ -810,7 +817,7 @@ span{
     color: white;
     text-align: center;
     position: relative;
-    left: 10px;
+    left: 7px;
     top: -55px;
 }
 }
@@ -823,12 +830,12 @@ span{
 }
 @media all and (max-width: 500px){
 	#xea {
-    font-size: 19px;
-    font-family: lucida sans;
-    position: relative;
-    top: -29px;
-    left: 146px;
-}
+        font-size: 19px;
+        font-family: lucida sans;
+        position: relative;
+        top: -29px;
+        left: 138px;
+    }
 }
 #dino{
 	font-size: 20px;
@@ -840,10 +847,10 @@ span{
 }
 @media all and (max-width: 500px){
     #dino {
-    font-size: 19px;
-    font-family: lucida sans;
-    position: relative;
-    top: -9px;
-    left: 2px;
+           font-size: 19px;
+        font-family: lucida sans;
+        position: relative;
+        top: -11px;
+        left: 11px;
 }
 }
